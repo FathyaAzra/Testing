@@ -1,1 +1,1 @@
-# Random coding/git test
+# Random coding/git practice
